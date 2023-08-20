@@ -15,5 +15,7 @@ step3)
 open the CSV file stored in excel
 
 output will look like this 
+
+
 ![image](https://github.com/yd776/Scrapping_Superset/assets/76481952/78bb73ca-5388-4a27-872d-dab401f11b3f)
 
